@@ -1,0 +1,22 @@
+{
+  "name": "expressjs-vercel",
+  "version": "1.0.0",
+  "description": "foobar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weissmuster/expressjs-vercel.git"
+  },
+  "author": "weissmuster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weissmuster/expressjs-vercel/issues"
+  },
+  "homepage": "https://github.com/weissmuster/expressjs-vercel#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
